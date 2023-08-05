@@ -18,7 +18,7 @@ Here are some of my repositories that showcase my work:
 
 ## Contributions
 
-I actively contribute to open-source projects and love collaborating with the community.
+I looking forward to contribute to open-source projects and love collaborating with the community.
 
 ## Let's Connect!
 
