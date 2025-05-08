@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate individual with a keen interest in Machine Learning and its applications. I am currently focusing on LLM(Large language model) and GenAI(Generative AI) and improve business with help of these Technologies.
+I am a passionate individual with a keen interest in Artificial Intelligence and its applications. I am currently focusing on Agentic AI, LLM(Large language model) and GenAI(Generative AI) and improving business with these Technologies' help.
 
 ## Reach Me
 
@@ -18,7 +18,7 @@ Here are some of my repositories that showcase my work:
 
 ## Contributions
 
-I looking forward to contribute to open-source projects and love collaborating with the community.
+I am looking forward to contributing to open-source projects and love collaborating with the community.
 
 ## Let's Connect!
 
