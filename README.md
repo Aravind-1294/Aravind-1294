@@ -1,27 +1,68 @@
-# Hi there! 👋 I'm Aravind Gangavarapu
+# 👋 Hi there! I'm Aravind Gangavarapu
 
-## About Me
+## 🚀 About Me
 
-I am a passionate individual with a keen interest in Artificial Intelligence and its applications. I am currently focusing on Agentic AI, LLM(Large language model) and GenAI(Generative AI) and improving business with these Technologies' help.
+I'm an AI enthusiast focused on building **efficient, scalable, and cost-effective intelligent systems**.  
+My primary interests lie in:
 
-## Reach Me
+- 🤖 Artificial Intelligence & Deep Learning  
+- 🧠 Large Language Models (LLMs)  
+- ⚙️ System Optimization & Performance Engineering  
+- 💰 Cost-efficient AI infrastructure & deployment  
 
-- LinkedIn: [linkedin.com/in/aravind-gangavarapu-a22362210](https://www.linkedin.com/in/aravind-gangavarapu-a22362210/)
-- Twitter: [twitter.com/Aravindgang07](https://twitter.com/Aravindgang07)
+I enjoy not just building models, but also **optimizing them for real-world usage** — balancing performance, speed, and cost.
 
-## My GitHub Repositories
+---
 
-Here are some of my repositories that showcase my work:
+## 🛠️ What I’m Currently Working On
 
-1. [Financial_Advisor](https://github.com/Aravind-1294/sector-Analysis.git).
-2. [Sector_Analysis](https://github.com/Aravind-1294/Finance_with_GPT.git). 
+- Optimizing deep learning architectures for efficiency vs accuracy  
+- Exploring LLM systems design and deployment  
+- Building tools for cost estimation and model comparison  
+- Learning production-grade AI systems  
 
-## Contributions
+---
 
-I am looking forward to contributing to open-source projects and love collaborating with the community.
+## 🌐 Connect With Me
 
-## Let's Connect!
+- 💼 LinkedIn: https://www.linkedin.com/in/aravind-gangavarapu-a22362210/  
+- 🐦 Twitter / X: https://twitter.com/Aravindgang07  
 
-I am always open to exciting projects and discussions. Feel free to reach out to me through LinkedIn or Twitter.
+---
 
-Let's build a better AI-powered future together! 🚀
+## 📌 Featured Projects
+
+### 🔹 Model Pricing Comparison  
+https://github.com/Aravind-1294/deep_learning.git  
+
+### 🔹 Financial Advisor  
+https://github.com/Aravind-1294/sector-Analysis.git  
+
+### 🔹 Sector Analysis  
+https://github.com/Aravind-1294/Finance_with_GPT.git  
+
+---
+
+## 🤝 Open Source & Collaboration
+
+I’m actively looking to:
+- Contribute to open-source AI/ML projects  
+- Collaborate on AI-based applications  
+- Work on real-world scalable AI systems  
+
+---
+
+## ⚡ Fun Fact
+
+I’m passionate about making AI not just smarter — but faster, cheaper, and more practical.
+
+---
+
+## 📫 Let’s Build Together!
+
+If you're working on something exciting in AI, LLMs, or system optimization —  
+I'd love to connect and collaborate!
+
+---
+
+⭐ Feel free to explore my repositories and drop a star!
