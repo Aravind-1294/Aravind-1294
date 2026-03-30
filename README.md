@@ -33,7 +33,7 @@ I enjoy not just building models, but also **optimizing them for real-world usag
 ## 📌 Featured Projects
 
 ### 🔹 Model Pricing Comparison  
-[https://github.com/Aravind-1294/deep_learning.git ](https://github.com/Aravind-1294/Deep_learning_model_comparison.git) 
+https://github.com/Aravind-1294/Deep_learning_model_comparison.git
 
 ### 🔹 Financial Advisor  
 https://github.com/Aravind-1294/sector-Analysis.git  
